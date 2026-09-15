@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 public class Loop2 {
     public static void main(String[] args){
             int i = 10;
@@ -8,14 +7,3 @@ public class Loop2 {
         }
     }
 }
-=======
-public class Loop2 {
-    public static void main(String[] args){
-            int i = 10;
-            while((i%2 == 0)&&(i<20)){
-            System.out.println(i);
-            i=i+2;
-        }
-    }
-}
->>>>>>> b3c7ca2 (loopings start)
