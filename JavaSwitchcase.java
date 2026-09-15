@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 public class JavaSwitchcase {
     public static void main(String[] args) {
         
@@ -36,7 +36,7 @@ public class JavaSwitchcase {
 
     }
 }
-=======
+
 public class JavaSwitchcase {
     public static void main(String[] args) {
         
@@ -74,4 +74,4 @@ public class JavaSwitchcase {
 
     }
 }
->>>>>>> 8d6be29 (The Switvh case Practices)
+
